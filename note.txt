@@ -1,2 +1,5 @@
 hi my name is roshan
 i'm new here 
+i dont know about coading 
+i wana make carrier in devops 
+.so i started learning git
