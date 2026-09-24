@@ -3,3 +3,4 @@ i'm new here
 i dont know about coading 
 i wana make carrier in devops 
 .so i started learning git
+this is nerw changes for checking pull 
